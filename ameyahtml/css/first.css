@@ -1,0 +1,20 @@
+/* three ways to use css in html */
+/* 1.Inline css 
+   2. internal css
+   3. External css
+ */
+
+ /* type of selectors
+ 1. element selector
+ 2. id selector
+ 3. class selector
+ */
+
+ h1{
+    color: teal;
+    font-size: 30px;
+ }
+
+ .diff{
+    color: red;
+ }
